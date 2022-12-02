@@ -1,4 +1,4 @@
-<html>
+
   <h1> mohamed </h1>
   
   
@@ -6,4 +6,4 @@
   <code>for x in range(5):
   print(x)</code>
   ![png](Figure_1.png)
-  </html>
+  
