@@ -2,7 +2,7 @@
   <h1> mohamed </h1>
   
   
-  <img scr= "[mohaemd](https://github.com/mohamedyounies2000/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/blob/main/Figure_1.png)" alt='aaaa'>
+<p><img src="https://assets.datacamp.com/production/project_1237/img/netflix.jpg" alt="Someone's feet on table facing a television"></p>
   <code>for x in range(5):
   print(x)</code>
   </html>
